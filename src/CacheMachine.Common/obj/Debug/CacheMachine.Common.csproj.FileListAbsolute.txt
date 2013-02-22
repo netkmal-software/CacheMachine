@@ -1,0 +1,4 @@
+D:\projects\CacheMachine\src\CacheMachine.Common\bin\Debug\CacheMachine.Common.dll
+D:\projects\CacheMachine\src\CacheMachine.Common\bin\Debug\CacheMachine.Common.pdb
+D:\projects\CacheMachine\src\CacheMachine.Common\obj\Debug\CacheMachine.Common.dll
+D:\projects\CacheMachine\src\CacheMachine.Common\obj\Debug\CacheMachine.Common.pdb

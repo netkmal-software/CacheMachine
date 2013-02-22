@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheMachine.Core", "src\CacheMachine.Core\CacheMachine.Core.csproj", "{9F0A4B9E-117B-4582-986A-4A98E0E37FAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheMachine.ClientAPI", "src\CacheMachine.ClientAPI\CacheMachine.ClientAPI.csproj", "{8EC304D5-099D-4326-B4B2-71849E9B00E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheMachine.Interfaces", "src\CacheMachine.Interfaces\CacheMachine.Interfaces.csproj", "{4D965301-D83A-41BB-9462-C70632C02272}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tryouts", "Tryouts", "{C7746829-C2E7-4038-B105-2EA4E6E3C06E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "tryouts\ConsoleApplication1\ConsoleApplication1.csproj", "{182B4EB8-CE83-458B-B623-7920BCB6043D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheMachine.Common", "src\CacheMachine.Common\CacheMachine.Common.csproj", "{6107C766-1A79-41A6-9A84-582AC0E28987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F0A4B9E-117B-4582-986A-4A98E0E37FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0A4B9E-117B-4582-986A-4A98E0E37FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0A4B9E-117B-4582-986A-4A98E0E37FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0A4B9E-117B-4582-986A-4A98E0E37FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC304D5-099D-4326-B4B2-71849E9B00E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC304D5-099D-4326-B4B2-71849E9B00E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC304D5-099D-4326-B4B2-71849E9B00E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC304D5-099D-4326-B4B2-71849E9B00E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D965301-D83A-41BB-9462-C70632C02272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D965301-D83A-41BB-9462-C70632C02272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D965301-D83A-41BB-9462-C70632C02272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D965301-D83A-41BB-9462-C70632C02272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182B4EB8-CE83-458B-B623-7920BCB6043D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182B4EB8-CE83-458B-B623-7920BCB6043D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182B4EB8-CE83-458B-B623-7920BCB6043D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182B4EB8-CE83-458B-B623-7920BCB6043D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6107C766-1A79-41A6-9A84-582AC0E28987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6107C766-1A79-41A6-9A84-582AC0E28987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6107C766-1A79-41A6-9A84-582AC0E28987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6107C766-1A79-41A6-9A84-582AC0E28987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{182B4EB8-CE83-458B-B623-7920BCB6043D} = {C7746829-C2E7-4038-B105-2EA4E6E3C06E}
+	EndGlobalSection
+EndGlobal

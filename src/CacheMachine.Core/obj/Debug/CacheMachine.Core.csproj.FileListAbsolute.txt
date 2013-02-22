@@ -1,0 +1,7 @@
+D:\projects\CacheMachine\src\CacheMachine.Core\bin\Debug\CacheMachine.Core.dll
+D:\projects\CacheMachine\src\CacheMachine.Core\bin\Debug\CacheMachine.Core.pdb
+D:\projects\CacheMachine\src\CacheMachine.Core\obj\Debug\CacheMachine.Core.csprojResolveAssemblyReference.cache
+D:\projects\CacheMachine\src\CacheMachine.Core\obj\Debug\CacheMachine.Core.dll
+D:\projects\CacheMachine\src\CacheMachine.Core\obj\Debug\CacheMachine.Core.pdb
+D:\projects\CacheMachine\src\CacheMachine.Core\bin\Debug\NLog.dll
+D:\projects\CacheMachine\src\CacheMachine.Core\bin\Debug\NLog.xml

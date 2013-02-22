@@ -1,0 +1,11 @@
+D:\projects\CacheMachine\src\CacheMachine.ClientAPI\bin\Debug\CacheMachine.ClientAPI.dll
+D:\projects\CacheMachine\src\CacheMachine.ClientAPI\bin\Debug\CacheMachine.ClientAPI.pdb
+D:\projects\CacheMachine\src\CacheMachine.ClientAPI\bin\Debug\CacheMachine.Interfaces.dll
+D:\projects\CacheMachine\src\CacheMachine.ClientAPI\bin\Debug\CacheMachine.Interfaces.pdb
+D:\projects\CacheMachine\src\CacheMachine.ClientAPI\obj\Debug\CacheMachine.ClientAPI.csprojResolveAssemblyReference.cache
+D:\projects\CacheMachine\src\CacheMachine.ClientAPI\obj\Debug\CacheMachine.ClientAPI.dll
+D:\projects\CacheMachine\src\CacheMachine.ClientAPI\obj\Debug\CacheMachine.ClientAPI.pdb
+D:\projects\CacheMachine\src\CacheMachine.ClientAPI\bin\Debug\NLog.dll
+D:\projects\CacheMachine\src\CacheMachine.ClientAPI\bin\Debug\NLog.xml
+D:\projects\CacheMachine\src\CacheMachine.ClientAPI\bin\Debug\CacheMachine.Common.dll
+D:\projects\CacheMachine\src\CacheMachine.ClientAPI\bin\Debug\CacheMachine.Common.pdb
